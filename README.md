@@ -1,5 +1,7 @@
 # Writing-a-Data-Science-Blog
-This project entails writing exploratory data analysis for Seattle Airbnb dataset to identify factors that could be determinants of quality of service and pricing
+This project entails writing exploratory data analysis for Seattle Airbnb dataset to identify factors that could be determinants of quality of service and pricing.
+
+A detailed summary can be found in this article: https://medium.com/@waiganjojohn11/these-factors-could-tell-the-price-and-quality-of-service-of-an-airbnb-host-3dac609d3b3d
 
 # Motivation
 Air BnB has become a popular sourse of short-term stays for modern travellers. Pricing and quality service are critically crucial in an individual’s decision-making process of whether to go with an AirBnB listing. Additionally, these elements are also crucial for hosts in their process of maximizing returns. Having an opportunity to observe the Seattle Airbnb and identify some of the factors that affect listing prices and host service delivery is intriguing.
